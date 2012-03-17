@@ -1,5 +1,4 @@
-
-Provides basic Eclipse editor templates to generate quickly tests with TestNG.
+Provides basic Eclipse editor templates to generate tests with TestNG.  
 At the moment the following templates are available:
 
 * test
@@ -18,7 +17,7 @@ At the moment the following templates are available:
 
 ![](http://github.com/ed0t/testng-templates4Eclipse/raw/master/img/eclipse-preferences.png)
 
-Create a new TestNG class
-type "test" CTRL-SPACE two times and you should be able to select the template "Test - test method (TestNG)"
+Create a new TestNG class, type "test" CTRL-SPACE two times,  
+you should be able to select the template "Test - test method (TestNG)"
 
 ![](https://github.com/ed0t/testng-templates4Eclipse/raw/master/img/test-template.png)
