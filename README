@@ -1,0 +1,9 @@
+Open Eclipse Preferences
+Go to Java -> Editor -> Tempates
+Click on Import and select Eclipse_TestNG_templates.xml
+Templates now should be imported
+Click on Ok to close the Preferences window
+
+Create a new TestNG class
+type "test" CTRL-SPACE two times and you should be able to select the template "Test - test method (TestNG)"
+
