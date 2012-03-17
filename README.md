@@ -1,5 +1,3 @@
-Open Eclipse Preferences
-##Description
 
 Provides basic Eclipse editor templates to generate quickly tests with TestNG.
 At the moment the following templates are available:
@@ -12,10 +10,11 @@ At the moment the following templates are available:
 
 ##How to install
 
-1. Go to Java -> Editor -> Tempates
-2. Click on Import and select Eclipse_TestNG_templates.xml
-3. Templates now should be imported
-4. Click on Ok to close the Preferences window
+1. Open Eclipse Preferences
+2. Go to Java -> Editor -> Tempates
+3. Click on Import and select Eclipse_TestNG_templates.xml
+4. Templates now should be imported
+5. Click on Ok to close the Preferences window
 
 ![](http://github.com/ed0t/testng-templates4Eclipse/raw/master/img/eclipse-preferences.png)
 
