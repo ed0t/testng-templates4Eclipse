@@ -16,7 +16,7 @@ Click on Import and select Eclipse_TestNG_templates.xml
 Templates now should be imported
 Click on Ok to close the Preferences window
 
-![Eclipse preferences](https://github.com/ed0t/testng-templates4Eclipse/raw/master/img/eclipse-preferences.png)
+![Eclipse preferences](http://github.com/ed0t/testng-templates4Eclipse/raw/master/img/eclipse-preferences.png)
 
 Create a new TestNG class
 type "test" CTRL-SPACE two times and you should be able to select the template "Test - test method (TestNG)"
